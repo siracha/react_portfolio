@@ -1,0 +1,14 @@
+$mainColour: #457B9D;
+$secondaryColour: #1D3557;
+$tertiaryColour: #C8E8E9;
+$accentColour: #E63946;
+$blackColour: #080F0F;
+$whiteColour: #F1FAEE;
+
+$width: 768px;
+
+@mixin mobile {
+  @media (max-width: #{$width}){
+    @content
+  }
+}
