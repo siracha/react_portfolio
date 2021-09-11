@@ -9,7 +9,7 @@ export default function Sidebar({ menuOpen, setMenuOpen}) {
           <a href="#intro" className="logo">jtom.</a>
           <div className="itemContainer">
             <LinkedIn className="icon" />
-            <span><a href="www.linkedin.com/in/jade-0-thomas">jade-0-thomas</a></span>
+            <span><a href="https://www.linkedin.com/in/jade-0-thomas">jade-0-thomas</a></span>
           </div>
           <div className="itemContainer">
           <Mail className="icon"/>
